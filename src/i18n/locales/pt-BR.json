@@ -1,0 +1,730 @@
+{
+    "nav": {
+        "home": "Início",
+        "produtos": "Produtos",
+        "ventiladores": "Ventiladores",
+        "exaustores": "Exaustores",
+        "locacao": "Locação",
+        "empresa": "Empresa",
+        "qualidade": "Qualidade",
+        "novidades": "Novidades",
+        "artigo": "Artigo",
+        "artigosDownload": "Artigos/Download",
+        "contato": "Contato",
+        "downloads": "Downloads",
+        "clientes": "Clientes",
+        "etica": "Código de Ética",
+        "privacidade": "Privacidade",
+        "solicitarOrcamento": "Solicitar Orçamento",
+        "search": "Buscar produtos...",
+        "noSearchResults": "Nenhum produto encontrado para \"{{query}}\"",
+        "productMenu": {
+            "mobileHint": "Linhas",
+            "labels": {
+                "normal": "Normal",
+                "portatil": "Portátil",
+                "portatilVic": "Portátil / VIC",
+                "vicNormal": "VIC Normal",
+                "axial": "Axial",
+                "estatico": "Estático",
+                "dinamico": "Dinâmico"
+            },
+            "ventiladores": {
+                "summary": "Comerciais, industriais e VIC.",
+                "groups": {
+                    "comerciais": "Comerciais",
+                    "industriais": "Industriais / Super Industriais",
+                    "ex": "Suporte Móvel"
+                },
+                "items": {
+                    "v500": "V500 - 50/60 cm",
+                    "v2410": "2410 - 60 cm",
+                    "v1101": "1101 - 70 cm",
+                    "v8803": "8803 - 88 cm",
+                    "v8813": "8813 - 88 cm",
+                    "v8800": "8800 - 88 cm",
+                    "super1000": "Super 1000 - 100 cm",
+                    "vic": "VIC - 70, 100 ou 150 cm",
+                    "vicAspersao": "VIC com aspersão"
+                }
+            },
+            "exaustores": {
+                "summary": "Axiais, centrífugos e climatização.",
+                "groups": {
+                    "axiais": "Axiais",
+                    "centrifugos": "Centrífugos e Especiais",
+                    "climatizacao": "Climatização & Aspersão"
+                },
+                "items": {
+                    "comercialIndustrial": "Comercial / Industrial",
+                    "parede": "Parede / Quadrado",
+                    "indireta": "Transmissão indireta",
+                    "pneumatico": "Pneumático",
+                    "naval": "Naval",
+                    "offshore": "Naval / Offshore / Inox",
+                    "centrifugosIndustriais": "Centrífugos Industriais",
+                    "siroco": "Siroco",
+                    "radial": "Radial",
+                    "pp": "Polietileno / PP",
+                    "mini": "Mini exaustores",
+                    "especiais": "Especiais sob encomenda",
+                    "ventex": "Ventex móvel",
+                    "exalatek": "Exaustor Exalatek",
+                    "climatizadorMovel": "Climatizador Móvel",
+                    "climatizadorClima": "Climatizador Clima",
+                    "ventfogSystem": "Sistema Ventfog"
+                }
+            },
+            "locacao": {
+                "summary": "Frota, aspersão e suporte para obra.",
+                "groups": {
+                    "ventiladores": "Ventiladores",
+                    "aspersao": "Aspersão / VentFog",
+                    "exaustores": "Exaustores e Outros"
+                },
+                "items": {
+                    "v1600": "1600 - 40 cm",
+                    "v1101": "1101 - 70 cm",
+                    "v8800": "8800 - 88 cm",
+                    "v1600Asp": "1600 c/ aspersão",
+                    "v1100Asp": "1100 c/ aspersão",
+                    "v8800Asp": "8800 c/ aspersão",
+                    "ventfog": "Sistema VentFog estático/dinâmico",
+                    "ventex": "Ventex móvel",
+                    "centrifugo": "Centrífugo móvel",
+                    "cortina": "Cortina de Ar"
+                }
+            }
+        },
+        "theme": {
+            "dark": "Tema Escuro",
+            "light": "Tema Claro",
+            "toggle": "Alternar tema"
+        },
+        "language": {
+            "pt": "Português",
+            "en": "English",
+            "toggle": "Mudar idioma"
+        }
+    },
+    "common": {
+        "close": "Fechar",
+        "open": "Abrir",
+        "menu": "Menu",
+        "loading": "Carregando...",
+        "error": "Erro",
+        "success": "Sucesso",
+        "warning": "Atenção",
+        "info": "Informação",
+        "seeMore": "Ver mais",
+        "seeAll": "Ver todos",
+        "details": "Detalhes",
+        "specifications": "Especificações",
+        "download": "Download",
+        "contact": "Contato",
+        "phone": "Telefone",
+        "email": "E-mail",
+        "address": "Endereço",
+        "send": "Enviar",
+        "sending": "Enviando...",
+        "required": "Campo obrigatório",
+        "invalidEmail": "E-mail inválido",
+        "scrollToTop": "Voltar ao topo",
+        "search": "Buscar",
+        "skipToContent": "Pular para o conteúdo principal"
+    },
+    "home": {
+        "hero": {
+            "certifications": "VENT RIO EQUIPAMENTOS - DESDE 2012",
+            "title1": "Ventilação",
+            "title2": "Industrial",
+            "title3": "Exaustão e",
+            "title4": "Climatização",
+            "subtitle": "Fabricação, comercialização e locação de ventiladores, exaustores, climatizadores, Ventfog, aspersão, cortinas de ar e soluções industriais sob especificação.",
+            "location": "Bonsucesso - Rio de Janeiro",
+            "ctaProducts": "Ver Produtos",
+            "ctaRental": "Frota de Locação",
+            "ctaCatalogs": "Catálogos PDF"
+        },
+        "differentials": {
+            "exTitle": "Linha Industrial Completa",
+            "exDesc": "Ventiladores, exaustores, climatização, aspersão, Ventfog e cortinas de ar.",
+            "experienceTitle": "Aplicações Comerciais e Industriais",
+            "experienceDesc": "Atendimento para galpões, fábricas, obras, eventos e ambientes severos.",
+            "traditionTitle": "Fábrica no Rio de Janeiro",
+            "traditionDesc": "Localização estratégica em Bonsucesso, próxima à Av. Brasil.",
+            "rentalTitle": "Locação com Suporte",
+            "rentalDesc": "Frota disponível, manutenção inclusa e entrega imediata."
+        },
+        "products": {
+            "subtitle": "Linha de Produtos",
+            "title": "Equipamentos Industriais",
+            "titlePrefix": "",
+            "titleHighlight": "Industriais",
+            "allCategories": "Todas as Categorias",
+            "ctaVentiladores": "Ventiladores",
+            "ctaExaustores": "Exaustores",
+            "ctaInsufladores": "Insufladores"
+        },
+        "scroll": "Rolar",
+        "solutions": {
+            "eyebrow": "Soluções Industriais",
+            "title": "Soluções por",
+            "titleHighlight": "Aplicação",
+            "description": "Selecionamos e fabricamos equipamentos para renovar o ar, remover calor, controlar poeira, melhorar conforto térmico e apoiar operações temporárias.",
+            "seeMore": "Saiba Mais",
+            "items": [
+                {
+                    "title": "Galpões, Fábricas e Oficinas",
+                    "desc": "Ventilação industrial para renovação do ar, conforto operacional e apoio a processos produtivos."
+                },
+                {
+                    "title": "Climatização e Aspersão",
+                    "desc": "Ventfog, bicos aspersores e climatizadores para redução de temperatura, poeira e odores."
+                },
+                {
+                    "title": "Obras, Eventos e Locação",
+                    "desc": "Frota de ventiladores, exaustores e cortinas de ar para necessidades temporárias."
+                },
+                {
+                    "title": "Exaustão Localizada",
+                    "desc": "Exaustores axiais, centrífugos, Ventex, Man Cooler e soluções sob medida."
+                }
+            ]
+        },
+        "process": {
+            "eyebrow": "Processo Simples e Direto",
+            "title": "Como Funciona",
+            "steps": [
+                {
+                    "title": "Consultoria Técnica",
+                    "desc": "Entendemos ambiente, vazão, temperatura, poeira, uso temporário ou permanente."
+                },
+                {
+                    "title": "Especificação",
+                    "desc": "Sugerimos ventilador, exaustor, climatizador, aspersão ou locação conforme a aplicação."
+                },
+                {
+                    "title": "Fabricação / Locação",
+                    "desc": "Fabricamos, comercializamos ou separamos equipamento de locação conforme disponibilidade."
+                },
+                {
+                    "title": "Atendimento e Suporte",
+                    "desc": "Apoiamos especificação, manutenção, garantia e reposição quando aplicável."
+                }
+            ]
+        },
+        "stats": {
+            "yearsMarket": "Anos no Mercado",
+            "productLines": "Linhas no Catálogo",
+            "contactChannels": "Telefones de Atendimento"
+        },
+        "rental": {
+            "subtitle": "Locação de Equipamentos",
+            "title": "Portfólio Próprio pronto para envio",
+            "description": "Ventiladores, exaustores, Ventfog, equipamentos com aspersão e cortinas de ar disponíveis para locação. Ideal para obras, eventos e operações temporárias.",
+            "taxNote": "Gastos com aluguel são totalmente dedutíveis no imposto de renda por tratar-se de despesa operacional.",
+            "cta": "Ver Portfólio de Locação"
+        },
+        "cta": {
+            "subtitle": "Orçamento sem compromisso",
+            "title": "Fale com um Especialista Vent Rio",
+            "description": "Entrega em todo o Brasil - Atendimento para ventiladores, exaustores, climatização e locação",
+            "callNow": "Ligar Agora",
+            "sendMessage": "Enviar Mensagem",
+            "talkSpecialist": "Falar com Especialista"
+        }
+    },
+    "footer": {
+        "description": "Fabricação, comercialização e locação de equipamentos de ventilação, exaustão, climatização e aspersão industrial.",
+        "navigation": "Navegação",
+        "contact": "Contato",
+        "hours": "Funcionamento",
+        "hoursWeekdays": "Seg-Qui: 8h às 17h30",
+        "hoursFriday": "Sex: 8h às 15h",
+        "certifications": "Certificações & Associações",
+        "certSublabels": {
+            "inmetro": "Produto Certificado",
+            "abnt": "Sócio Colaborador",
+            "petrobras": "Fornecedor Cadastrado",
+            "firjan": "Empresa Associada"
+        },
+        "rights": "Todos os direitos reservados",
+        "privacy": "Privacidade"
+    },
+    "contact": {
+        "pageTitle": "Contato | Vent Rio Equipamentos – Rio de Janeiro",
+        "title": "Entre em Contato",
+        "subtitle": "Nossa equipe está pronta para atender você",
+        "form": {
+            "name": "Nome completo",
+            "company": "Empresa",
+            "email": "E-mail",
+            "phone": "Telefone",
+            "subject": "Assunto",
+            "message": "Mensagem",
+            "submit": "Enviar Mensagem",
+            "success": "Demonstração registrada — nenhum contato foi enviado.",
+            "error": "Erro ao enviar mensagem. Tente novamente ou entre em contato por telefone.",
+            "successDetail": "A integração operacional foi removida desta cópia pública de portfólio.",
+            "errorDetail": "Tente novamente ou entre em contato diretamente por",
+            "department": "Setor",
+            "select": "Selecione...",
+            "nameCompany": "Nome / Empresa",
+            "nameCompanyPlaceholder": "Seu nome ou empresa",
+            "subjectPlaceholder": "Assunto da mensagem",
+            "messagePlaceholder": "Descreva sua necessidade...",
+            "sent": "Demonstração concluída",
+            "salesHint": "Para orçamentos de vendas, contate",
+            "rentalHint": "Para locação, contate",
+            "contactMethodHint": "Informe e-mail ou telefone para conseguirmos retornar.",
+            "contactMethodRequired": "Informe pelo menos um meio de retorno: e-mail ou telefone."
+        },
+        "eyebrow": "Atendimento",
+        "info": {
+            "phones": "Telefones",
+            "phoneNote": "Caso não consiga contato telefônico, envie um e-mail para",
+            "emailsByDepartment": "E-mails por Setor",
+            "address": "Endereço",
+            "openRoute": "Abrir Rota no Maps",
+            "openRouteShort": "Abrir Rota"
+        },
+        "departments": {
+            "vendas": "Vendas",
+            "locacao": "Locação",
+            "geral": "Geral",
+            "compras": "Compras",
+            "financeiro": "Financeiro",
+            "gerencia": "Gerência",
+            "outro": "Outro"
+        },
+        "mapTitle": "Localização Vent Rio Equipamentos – Bonsucesso, Rio de Janeiro",
+        "visitFactory": "Visite nossa Fábrica"
+    },
+    "whatsapp": {
+        "button": "Fale conosco no WhatsApp",
+        "tooltip": "Atendimento rápido via WhatsApp"
+    },
+    "assistant": {
+        "buttonText": "Encontrar solução",
+        "buttonAria": "Falar com especialista",
+        "header": {
+            "title": "Especialista Vent Rio",
+            "online": "Online agora",
+            "soon": "Responde em breve",
+            "offline": "Offline agora"
+        },
+        "aria": {
+            "dialog": "Encontrar solução Vent Rio",
+            "addProduct": "Adicionar {{product}} à lista"
+        },
+        "steps": {
+            "step": "Passo {{current}} de {{total}}",
+            "intentTitle": "Encontrar solução ou orçamento",
+            "intentDescription": "Dúvida técnica segue pelo WhatsApp. Compra e locação geram e-mail rastreável para o setor correto.",
+            "needTitle": "Qual é a necessidade principal?",
+            "environmentTitle": "Ambiente e aplicação",
+            "suggestionsTitle": "Sugestões baseadas nas respostas",
+            "suggestionsDescription": "Adicione apenas os produtos que fizerem sentido para a sua necessidade.",
+            "contactTitle": "Dados para agilizar o retorno",
+            "contactDescriptionTechnical": "Informe um contato para a equipe técnica conseguir retornar.",
+            "contactDescriptionEmail": "Para compra e locação, informe e-mail e telefone para rastreabilidade do atendimento."
+        },
+        "procurement": {
+            "compra": {
+                "label": "Compra",
+                "description": "Quero comprar ou fabricar um equipamento."
+            },
+            "locacao": {
+                "label": "Locação",
+                "description": "Preciso alugar por período ou obra."
+            },
+            "duvida": {
+                "label": "Dúvida técnica",
+                "description": "Ainda estou levantando a necessidade."
+            }
+        },
+        "need": {
+            "ventilacao": {
+                "label": "Ventilação",
+                "description": "Renovar ar ou melhorar conforto operacional."
+            },
+            "exaustao": {
+                "label": "Exaustão",
+                "description": "Remover gases, vapores, calor ou contaminantes."
+            },
+            "insuflamento": {
+                "label": "Insuflamento",
+                "description": "Levar ar por dutos para área remota."
+            },
+            "espaco_confinado": {
+                "label": "Espaço confinado",
+                "description": "Tanques, silos, galerias ou NR-33."
+            }
+        },
+        "area": {
+            "ex": "EX",
+            "normal": "Normal",
+            "unknown": "Não sei"
+        },
+        "application": {
+            "galpao": "Galpão industrial",
+            "espaco_confinado": "Tanque / espaço confinado",
+            "offshore": "Offshore / naval",
+            "quimica": "Indústria química",
+            "oleo_gas": "Óleo e gás",
+            "obra": "Obra / locação",
+            "outro": "Outro ambiente"
+        },
+        "urgency": {
+            "imediata": "Imediata",
+            "semana": "Esta semana",
+            "mes": "Este mês",
+            "planejamento": "Em planejamento"
+        },
+        "labels": {
+            "application": "Aplicação",
+            "urgency": "Prazo"
+        },
+        "fields": {
+            "name": "Nome",
+            "company": "Empresa",
+            "email": "E-mail para retorno",
+            "phone": "Telefone/WhatsApp para retorno",
+            "city": "Cidade / UF",
+            "notes": "Observações, medidas, tensão, quantidade ou detalhes do ambiente"
+        },
+        "emailTrace": {
+            "title": "Envio rastreável",
+            "description": "Esta solicitação será preparada para"
+        },
+        "footer": {
+            "available": "Atendimento disponível agora.",
+            "offline": "Fora do horário, mas sua mensagem fica pronta.",
+            "hours": "Seg-Qui 8h-17:30 · Sex 8h-15h"
+        },
+        "actions": {
+            "addToList": "Adicionar à lista",
+            "back": "Voltar",
+            "skip": "Pular",
+            "continue": "Continuar",
+            "sendWhatsapp": "Enviar no WhatsApp",
+            "sendEmail": "Enviar por e-mail",
+            "reset": "Reiniciar"
+        },
+        "errors": {
+            "contactRequired": "Informe e-mail ou telefone para retorno.",
+            "emailPhoneRequired": "Informe e-mail e telefone para retorno.",
+            "sendFailed": "Não foi possível enviar agora. Tente novamente em instantes."
+        },
+        "success": {
+            "emailSent": "Solicitação enviada. A Vent Rio retornará pelo contato informado.",
+            "productAdded": "{{product}} adicionado à lista"
+        }
+    },
+    "quoteCart": {
+        "openAria": "Abrir lista de orçamento",
+        "title": "Lista de Orçamento",
+        "count": "{{count}} item(ns) selecionado(s)",
+        "emptyHintShort": "Adicione produtos técnicos",
+        "eyebrow": "Pré-orçamento",
+        "selectedTitle": "Lista técnica selecionada",
+        "closeAria": "Fechar orçamento",
+        "emptyTitle": "Nenhum produto adicionado ainda.",
+        "emptyDescription": "Use o botão Encontrar solução ou abra um produto para montar uma lista antes de falar com a Vent Rio.",
+        "decreaseAria": "Diminuir quantidade",
+        "increaseAria": "Aumentar quantidade",
+        "removeAria": "Remover item",
+        "sendData": "Informar dados e enviar",
+        "clear": "Limpar lista"
+    },
+    "productsPage": {
+        "hero": {
+            "badge": "Catálogo Vent Rio",
+            "title": "Escolha a",
+            "titleHighlight": "Categoria",
+            "subtitle": "Veja todas as linhas antes de entrar em um produto específico: ventiladores, exaustores, climatização, aspersão, insuflamento e frota de locação."
+        },
+        "viewLine": "Ver linha",
+        "categories": {
+            "ventiladores": {
+                "title": "Ventiladores",
+                "desc": "Linha comercial, industrial, super industrial, VIC e modelos especiais."
+            },
+            "exaustores": {
+                "title": "Exaustores",
+                "desc": "Axiais, centrífugos, navais, pneumáticos, portáteis e modelos convencionais."
+            },
+            "insufladores": {
+                "title": "Climatização e Aspersão",
+                "desc": "Climatizadores móveis, Ventfog, bicos aspersores e cortinas de ar."
+            },
+            "locacao": {
+                "title": "Locação",
+                "desc": "Portfólio próprio para obras, eventos, paradas industriais e aplicações temporárias.",
+                "stats": "Entrega imediata"
+            }
+        },
+        "cards": {
+            "ex": {
+                "title": "Equipamentos Industriais",
+                "desc": "{{count}} famílias de produtos com aplicação em ambientes comerciais, industriais e severos."
+            },
+            "spec": {
+                "title": "Especificação técnica",
+                "desc": "Cada linha exibe aplicação, dimensões, certificações e catálogos quando disponíveis."
+            },
+            "sales": {
+                "title": "Venda e locação",
+                "desc": "O visitante consegue separar compra, locação e necessidade temporária sem cair direto em uma linha."
+            }
+        }
+    },
+    "productFilters": {
+        "all": "Todos os Modelos",
+        "normal": "Modelos Convencionais"
+    },
+    "productActions": {
+        "added": "{{product}} adicionado ao orçamento",
+        "backTo": "← Voltar para {{page}}",
+        "industrialLine": "Linha Industrial",
+        "specs": "Especificações técnicas",
+        "addToList": "Adicionar à Lista",
+        "rentalQuote": "Cotação de Locação",
+        "requestQuote": "Solicitar Cotação",
+        "pdfCatalog": "Catálogo PDF",
+        "viewSpecs": "Ver especificações",
+        "needFullSpecs": "Precisa de especificações técnicas completas?",
+        "needCatalogs": "Precisa de catálogos técnicos completos?",
+        "viewCatalogs": "Ver Catálogos para Download",
+        "viewCatalogsShort": "Ver Catálogos"
+    },
+    "ventiladoresPage": {
+        "hero": {
+            "badge": "Linha de Ventiladores",
+            "title": "Ventiladores",
+            "titleHighlight": "Industriais",
+            "subtitle": "Fabricamos e comercializamos ventiladores comerciais, industriais, super industriais, com suporte móvel, aspersão e soluções sob especificação para diferentes ambientes."
+        }
+    },
+    "exaustoresPage": {
+        "hero": {
+            "badge": "Linha de Exaustores",
+            "title": "Exaustores",
+            "titleHighlight": "Industriais",
+            "subtitle": "Exaustores axiais, centrífugos, pneumáticos, Ventex, Man Cooler, exaustores para banheiro, cozinha, divisória, churrasqueira e soluções especiais sob consulta."
+        },
+        "blowers": {
+            "title": "Climatização, Aspersão e Insuflamento",
+            "description": "Linha completa de climatizadores por centrifugação, aspersores Ventfog e sistemas de insuflamento axial e centrífugo com Skid."
+        }
+    },
+    "rentalPage": {
+        "breadcrumb": "Locação de Equipamentos",
+        "hero": {
+            "badge": "Frota Vent Rio",
+            "title": "Locação de",
+            "titleHighlight": "Equipamentos",
+            "subtitle": "Gastos com aluguel são totalmente dedutíveis no imposto de renda por tratar-se de despesa operacional. Manutenção permanente e substituição do equipamento em caso de defeito, sem custos adicionais."
+        },
+        "advantages": [
+            {
+                "title": "Entrega Imediata",
+                "desc": "Equipamentos prontos para envio. Atendemos todo o Brasil."
+            },
+            {
+                "title": "Linha ampla",
+                "desc": "Ventiladores, exaustores, aspersão, Ventfog e cortinas de ar conforme disponibilidade."
+            },
+            {
+                "title": "Zero Manutenção",
+                "desc": "Suporte técnico e manutenção inclusa durante todo o período."
+            }
+        ],
+        "available": "Equipamentos Disponíveis",
+        "cta": {
+            "title": "Solicitar cotação de locação",
+            "description": "Envie sua necessidade por e-mail ou use o formulário.",
+            "form": "Formulário de Contato"
+        }
+    },
+    "companyPage": {
+        "hero": {
+            "badge": "Nossa História",
+            "title": "Fábrica de",
+            "titleHighlight": "Ventilação Industrial",
+            "subtitle": "Fundada em 24 de julho de 2012, a Vent Rio Equipamentos atua em Bonsucesso, Rio de Janeiro, com fabricação, montagem, representação e comercialização de ventiladores e exaustores industriais."
+        },
+        "stats": {
+            "countries": "Países Atendidos"
+        },
+        "cta": {
+            "quality": "Qualidade & Certificados",
+            "clients": "Nossos Clientes"
+        },
+        "exports": "Atuação e linhas",
+        "certifications": "Certificações",
+        "clients": {
+            "eyebrow": "Alguns de nossos clientes",
+            "title": "Grandes marcas confiam na Vent Rio"
+        }
+    },
+    "qualityPage": {
+        "hero": {
+            "badge": "Sistema de Gestão",
+            "title": "Qualidade &",
+            "titleHighlight": "Certificações",
+            "subtitle": "A Vent Rio orienta seus processos pela qualidade, segurança do consumidor e melhoria contínua em ventilação e exaustão industrial."
+        },
+        "scope": "Escopo do SGQ",
+        "mission": "Missão",
+        "vision": "Visão",
+        "values": "Valores",
+        "policy": "Política e objetivos de qualidade",
+        "qms": "Sistema de Gestão da Qualidade",
+        "inmetroCert": "Certificado INMETRO",
+        "isoCert": "Certificado ISO"
+    },
+    "clientsPage": {
+        "eyebrow": "Nossa Carteira",
+        "titleBefore": "Empresas que",
+        "titleHighlight": "confiam",
+        "titleAfter": "na Vent Rio",
+        "description": "A Vent Rio atende demandas comerciais e industriais com foco em ventilação, exaustão, climatização e locação de equipamentos.",
+        "featured": "Clientes em destaque",
+        "fullList": "Lista completa de clientes",
+        "cta": {
+            "title": "Quer fazer parte desta lista?",
+            "description": "Entre em contato e peça seu orçamento sem compromisso."
+        }
+    },
+    "downloadsPage": {
+        "breadcrumb": "Catálogos & Downloads",
+        "eyebrow": "Documentação Técnica",
+        "title": "CATÁLOGOS &",
+        "description": "Baixe os catálogos técnicos, manuais, artigos e publicações da Vent Rio. Todos os arquivos em PDF.",
+        "cta": {
+            "title": "PRECISA DE MAIS INFORMAÇÕES?",
+            "description": "Nossa equipe técnica está disponível para enviar especificações personalizadas."
+        }
+    },
+    "newsPage": {
+        "hero": {
+            "badge": "Últimas Atualizações",
+            "title": "Novidades",
+            "subtitle": "Acompanhe as últimas novidades, lançamentos e publicações da Vent Rio Equipamentos."
+        },
+        "social": "Siga a Vent Rio nas redes sociais",
+        "recent": "Publicações Recentes",
+        "share": "Compartilhar no {{network}}",
+        "cta": {
+            "description": "Para mais informações sobre nossos produtos, acesse os catálogos técnicos.",
+            "button": "Ver Catálogos em PDF"
+        },
+        "posts": [
+            {
+                "title": "Como Dimensionar a Ventilação do seu Galpão Industrial",
+                "tag": "Artigo Técnico",
+                "date": "Abril 2026",
+                "desc": "Um guia passo a passo sobre como calcular a vazão de ar necessária, taxa de renovação e distribuição de ventiladores para conforto térmico e eficiência.",
+                "alt": "Dimensionamento de Ventilação",
+                "note": "Leitura: 5 min"
+            },
+            {
+                "title": "Modelo 750 para Ambientes Marinhos",
+                "tag": "Lançamento",
+                "date": "Março 2026",
+                "desc": "Renderização do novo exaustor/ventilador naval Vent Rio modelo 750. Equipamento construído em aço inox com pintura naval de alta resistência para plataformas offshore.",
+                "alt": "Novo Ventilador Vent Rio modelo 750 naval",
+                "note": "Imagem ilustrativa"
+            },
+            {
+                "title": "Ventilação de Segurança em Espaços Confinados (NR-33)",
+                "tag": "Artigo Técnico",
+                "date": "Fevereiro 2026",
+                "desc": "A importância da renovação constante de ar usando exaustores portáteis para assegurar a saúde dos colaboradores em tanques e galerias comuns.",
+                "alt": "Ventilação Espaço Confinado",
+                "note": "Leitura: 4 min"
+            },
+            {
+                "title": "Garantia de Qualidade com ISO 9001:2015",
+                "tag": "Qualidade",
+                "date": "Janeiro 2026",
+                "desc": "Conheça o nosso compromisso com a melhoria contínua e a padronização de processos de fabricação na nossa planta industrial no Rio de Janeiro.",
+                "alt": "Qualidade ISO 9001",
+                "note": "Leitura: 3 min"
+            },
+            {
+                "title": "Exportação de Sistemas Centrífugos para Angola",
+                "tag": "Internacional",
+                "date": "Novembro 2025",
+                "desc": "Linha de exaustores centrífugos para aplicações industriais que exigem pressão, vazão e especificação técnica adequada.",
+                "alt": "Vent Rio Exportação Angola",
+                "note": ""
+            }
+        ]
+    },
+    "privacyPage": {
+        "title": "POLÍTICA DE",
+        "titleHighlight": "PRIVACIDADE",
+        "paragraphs": [
+            "Prezado Cliente,",
+            "A Política de Privacidade da Vent Rio foi adequada à LGPD, Lei Geral de Proteção dos Dados nº 13.709/2018, que prevê a proteção de dados pessoais.",
+            "Isso significa que estamos adequando nossos processos para obter o consentimento explícito e assegurar a proteção dos dados de nossos clientes na coleta, armazenamento e utilização dessas informações.",
+            "Além de aumentar o controle do usuário sobre as informações, a lei traz mais transparência e segurança jurídica para todos os envolvidos."
+        ],
+        "signature": "Atenciosamente,"
+    },
+    "ethicsPage": {
+        "eyebrow": "Governança Corporativa",
+        "title": "CÓDIGO DE",
+        "titleHighlight": "ÉTICA",
+        "contactChannel": "Canal de comunicação:",
+        "administrator": "Administrador",
+        "sections": [
+            {
+                "title": "CLÁUSULAS ANTICORRUPÇÃO",
+                "items": [
+                    "A Vent Rio compromete-se a observar rigorosamente e a cumpir todas as leis aplicáveis, incluindo a lei anticorrupção brasileira e as regras de combate à lavagem de dinheiro.",
+                    "A Vent Rio declara e garante que não está e não estará envolvida em nenhuma atividade ou prática que viole as leis anticorrupção.",
+                    "A Vent Rio declara que não ofereceu, prometeu, pagou ou autorizou o pagamento, presentes ou qualquer valor a partes interessadas para obter benefícios.",
+                    "Toda a documentação de faturamento deve incluir uma fatura detalhada descrevendo os serviços prestados ou os bens adquiridos.",
+                    "O descumprimento das leis anticorrupção é considerado uma violação grave e pode rescindir imediatamente qualquer nova relação comercial."
+                ]
+            },
+            {
+                "title": "CÓDIGO DE CONDUTA E ÉTICA DO FORNECEDOR",
+                "items": [
+                    "O fornecedor compromete-se a observar e cumprir todas as leis aplicáveis, incluindo a legislação anticorrupção e de combate à lavagem de dinheiro.",
+                    "O fornecedor declara que não está envolvido em nenhuma atividade que viole as leis anticorrupção durante o cumprimento de suas obrigações.",
+                    "O fornecedor deve notificar prontamente a Vent Rio por escrito sobre qualquer suspeita de violação das leis anticorrupção.",
+                    "O fornecedor não deve cometer ou ser cúmplice de trabalho forçado, trabalho escravo, trabalho obrigatório ou formas modernas de escravidão."
+                ]
+            },
+            {
+                "title": "PROTEÇÃO DE DADOS PESSOAIS (LGPD)",
+                "items": [
+                    "Todos os colaboradores da Vent Rio são treinados e assinam termos de confidencialidade relativos à Lei nº 13.709/2018 (LGPD).",
+                    "A Vent Rio adota procedimentos internos de controle e proteção de dados pessoais conforme estabelecido em lei.",
+                    "Não são permitidas fotos ou vídeos no ambiente de trabalho sem a autorização da empresa e dos colaboradores."
+                ]
+            },
+            {
+                "title": "DIREITOS HUMANOS",
+                "items": [
+                    "A Vent Rio está comprometida em respeitar, conscientizar, promover e prevenir violações dos direitos humanos protegidos por tratados internacionais.",
+                    "Todos os colaboradores devem promover um ambiente de trabalho que respeite a diversidade cultural, cor da pele, nacionalidade, origem étnica, gênero, orientação sexual, religião e convicção política.",
+                    "Todos devem prevenir e não ser cúmplices de qualquer trabalho realizado por crianças e adolescentes menores de 16 anos.",
+                    "A Vent Rio mantém canais permanentes de comunicação com as comunidades onde atua, promovendo o diálogo e o engajamento adequado."
+                ]
+            },
+            {
+                "title": "DESVIOS DE CONDUTA",
+                "items": [
+                    "Qualquer desvio de conduta de colaboradores deve ser comunicado diretamente à diretoria da empresa através do e-mail sap@ventrio.ind.br."
+                ],
+                "contact": "sap@ventrio.ind.br"
+            }
+        ]
+    }
+}

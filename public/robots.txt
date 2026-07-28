@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.ventrio.ind.br/sitemap.xml
+
+# Bloquear arquivos desnecessários para crawlers
+Disallow: /assets/pdf/
+Disallow: /*.json$
+

@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0A0A0A" />
+  <meta name="author" content="Vent Rio Equipamentos LTDA" />
+
+  <!-- SEO Primário -->
+  <title>Vent Rio Equipamentos | Ventiladores, Exaustores e Climatização Industrial</title>
+  <meta name="description"
+    content="Vent Rio Equipamentos: fabricação, comercialização e locação de ventiladores, exaustores, climatizadores, Ventfog, aspersão e cortinas de ar. Bonsucesso, Rio de Janeiro. (21) 9 9723-5086." />
+  <meta name="keywords"
+    content="ventiladores industriais, exaustores industriais, climatizadores industriais, Ventfog, aspersão, cortinas de ar, locação de ventiladores, locação de exaustores, Rio de Janeiro, Bonsucesso, Vent Rio, Ventrio" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://www.ventrio.ind.br/" id="canonical-link" />
+
+  <!-- Geo / Local SEO -->
+  <meta name="geo.region" content="BR-RJ" />
+  <meta name="geo.placename" content="Rio de Janeiro" />
+  <meta name="geo.position" content="-22.8739;-43.2398" />
+  <meta name="ICBM" content="-22.8739, -43.2398" />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Vent Rio Equipamentos | Ventiladores, Exaustores e Climatização Industrial" />
+  <meta property="og:description"
+    content="Fabricação, comercialização e locação de ventiladores, exaustores, climatizadores, Ventfog, aspersão e cortinas de ar. Bonsucesso, Rio de Janeiro." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.ventrio.ind.br/" />
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:site_name" content="Vent Rio Equipamentos" />
+  <meta property="og:image" content="https://www.ventrio.ind.br/assets/img/vesper_linha_comercial.png" />
+  <script>
+    (function () {
+      const origin = window.location.origin;
+      const canonicalLink = document.getElementById('canonical-link');
+      if (canonicalLink) {
+        canonicalLink.href = origin + '/';
+      }
+      const ogUrl = document.querySelector('meta[property="og:url"]');
+      if (ogUrl) {
+        ogUrl.content = origin + '/';
+      }
+      const ogImage = document.querySelector('meta[property="og:image"]');
+      if (ogImage) {
+        ogImage.content = ogImage.content.replace(/^https?:\/\/[^/]+/, origin);
+      }
+      const twitterImage = document.querySelector('meta[name="twitter:image"]');
+      if (twitterImage) {
+        twitterImage.content = twitterImage.content.replace(/^https?:\/\/[^/]+/, origin);
+      }
+      const jsonLd = document.querySelector('script[type="application/ld+json"]');
+      if (jsonLd) {
+        try {
+          const data = JSON.parse(jsonLd.textContent);
+          if (data) {
+            data.url = origin;
+            if (typeof data.logo === 'string') {
+              data.logo = data.logo.replace(/^https?:\/\/[^/]+/, origin);
+            }
+            if (typeof data.image === 'string') {
+              data.image = data.image.replace(/^https?:\/\/[^/]+/, origin);
+            }
+            jsonLd.textContent = JSON.stringify(data);
+          }
+        } catch (e) {
+          console.warn('Could not update JSON-LD origin', e);
+        }
+      }
+    })();
+  </script>
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Vent Rio Equipamentos | Ventiladores, Exaustores e Climatização Industrial" />
+  <meta name="twitter:description"
+    content="Fabricação, comercialização e locação de ventiladores, exaustores, climatizadores e cortinas de ar. Rio de Janeiro." />
+  <meta name="twitter:image" content="https://www.ventrio.ind.br/assets/img/vesper_linha_comercial.png" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/gif" href="/favicon.gif" />
+
+  <!-- Fonts — Preconnect + Preload para eliminar FOUT -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="style"
+    href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,700;0,900;1,700&display=swap" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,700;0,900;1,700&display=swap"
+    rel="stylesheet" />
+
+  <!-- Schema.org LocalBusiness LD+JSON -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Vent Rio Equipamentos LTDA",
+    "url": "https://www.ventrio.ind.br",
+    "logo": "https://www.ventrio.ind.br/assets/img/logo.png",
+    "image": "https://www.ventrio.ind.br/assets/img/logo.png",
+    "description": "Fabricação, comercialização e locação de ventiladores, exaustores, climatizadores, Ventfog, aspersão e cortinas de ar.",
+    "telephone": "+55-21-99723-5086",
+    "email": "vendas@ventrio.ind.br",
+    "priceRange": "$$",
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday"],
+        "opens": "08:00",
+        "closes": "17:30"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Friday",
+        "opens": "08:00",
+        "closes": "15:00"
+      }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rua Sete de Março, 370",
+      "addressLocality": "Bonsucesso",
+      "addressRegion": "RJ",
+      "postalCode": "21043-030",
+      "addressCountry": "BR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": -22.8739,
+      "longitude": -43.2398
+    },
+    "sameAs": [],
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+55-21-99723-5086",
+        "contactType": "sales",
+        "areaServed": "BR",
+        "availableLanguage": "Portuguese"
+      },
+      {
+        "@type": "ContactPoint",
+        "telephone": "+55-21-99962-2736",
+        "contactType": "customer service",
+        "areaServed": "BR",
+        "availableLanguage": "Portuguese"
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
+
+
